@@ -1,0 +1,16 @@
+{
+  "name": "tea-nft-404",
+  "version": "1.0.1",
+  "description": "tea first 404 nft ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tea",
+    "404 ",
+    "nft"
+  ],
+  "author": "witkeyshare",
+  "license": "ISC"
+}
