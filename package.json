@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
       "type": "git"
-    , "url": "https://github.com/twitter/bootstrap.git"
+    , "url": "https://github.com/witkeyshare/tea-nft-404"
   }
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
